@@ -1,7 +1,13 @@
 # Recipe-Book-and-Shopping-List
-Recipe Book and Shopping List Angular app hosted on Firebase and generated with <a href="https://github.com/angular/angular-cli">Angular CLI</a> version 14.0.3. Login/Signup with authentication using the <a href="https://firebase.google.com/docs/reference/rest/auth#section-create-email-password">Firebase Auth REST API</a>. Manage your recipes and view them in detail. Manage your shopping list and push ingredients from a recipe directly to the shopping list. Recipes and shopping list are saved and fetched using the <a href="https://firebase.google.com/docs/reference/rest/database">Firebase Database REST API</a>. Webapp securely hosted using <a href="https://firebase.google.com/docs/hosting">Firebase Hosting</a>. 
+<ul>
+    <li>Recipe Book and Shopping List Angular app hosted on Firebase generated with <a href="https://github.com/angular/angular-cli" rel="noreferrer noopener" target="_blank">Angular CLI</a> version 14.0.3.</li> 
+    <li>Login/Signup with authentication using the <a href="https://firebase.google.com/docs/reference/rest/auth#section-create-email-password" rel="noreferrer noopener" target="_blank">Firebase Auth REST API</a>.</li>
+    <li>Manage your recipes and view them in detail. Manage your shopping list and push ingredients from a recipe directly to the shopping list.</li>
+    <li>Recipes and shopping list are saved and fetched using the <a href="https://firebase.google.com/docs/reference/rest/database" rel="noreferrer noopener" target="_blank">Firebase Database REST API</a>.</li>
+    <li><a href="https://ng-course-recipe-book-5433b.web.app/auth" rel="noreferrer noopener" target="_blank">Webapp</a> securely hosted using <a href="https://firebase.google.com/docs/hosting" rel="noreferrer noopener" target="_blank">Firebase Hosting</a>.</li>
+</ul>
 
-<a href="https://ng-course-recipe-book-5433b.web.app/auth">Website</a> hosted on Firebase.
+<hr>
 
 <h3>Login/Sign up Page</h3>
 <img src="images_for_github/login-signup.png" alt="Login/Sign up Page" width="200%" height="200%">
