@@ -4,22 +4,22 @@ Recipe Book and Shopping List Angular app hosted on Firebase. Login/Signup with 
 <a href="https://ng-course-recipe-book-5433b.web.app/auth">Website</a> hosted on Firebase.
 
 <h3>Login/Sign up Page</h3>
-<img src="images_for_github/login-signup.png" alt="Login/Sign up Page" width="50%" height="50%">
+<img src="images_for_github/login-signup.png" alt="Login/Sign up Page" width="200%" height="200%">
 
 <hr>
 
 <h3>Recipes Page</h3>
-<img src="images_for_github/recipes.png" alt="Recipes Page" width="50%" height="50%">
+<img src="images_for_github/recipes.png" alt="Recipes Page" width="200%" height="200%">
 
 <hr>
 
 <h3>Recipes Edit Page</h3>
-<img src="images_for_github/recipes-edit.png" alt="recipes-edit Page" width="50%" height="50%">
+<img src="images_for_github/recipes-edit.png" alt="recipes-edit Page" width="200%" height="200%">
 
 <hr>
 
 <h3>Shopping-List Page</h3>
-<img src="images_for_github/shopping-list.png" alt="Shopping-List Page" width="50%" height="50%">
+<img src="images_for_github/shopping-list.png" alt="Shopping-List Page" width="200%" height="200%">
 
 <hr>
 
