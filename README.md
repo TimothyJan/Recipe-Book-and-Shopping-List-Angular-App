@@ -1,5 +1,5 @@
 # Recipe-Book-and-Shopping-List
-Recipe Book and Shopping List Angular app hosted on Firebase. Login/Signup with authentication using the <a href="https://firebase.google.com/docs/reference/rest/auth#section-create-email-password">Firebase Auth REST API</a>. Manage our recipes and view them in detail. Manage our shopping list and push ingredients from a recipe directly to the shopping list. Recipes and shopping list are saved and fetched using the <a href="https://firebase.google.com/docs/reference/rest/database">Firebase Database REST API</a>. Webapp securely hosted using <a href="https://firebase.google.com/docs/hosting">Firebase Hosting</a>. 
+Recipe Book and Shopping List Angular app hosted on Firebase and generated with <a href="https://github.com/angular/angular-cli">Angular CLI</a> version 14.0.3.. Login/Signup with authentication using the <a href="https://firebase.google.com/docs/reference/rest/auth#section-create-email-password">Firebase Auth REST API</a>. Manage our recipes and view them in detail. Manage our shopping list and push ingredients from a recipe directly to the shopping list. Recipes and shopping list are saved and fetched using the <a href="https://firebase.google.com/docs/reference/rest/database">Firebase Database REST API</a>. Webapp securely hosted using <a href="https://firebase.google.com/docs/hosting">Firebase Hosting</a>. 
 
 <a href="https://ng-course-recipe-book-5433b.web.app/auth">Website</a> hosted on Firebase.
 
@@ -32,11 +32,6 @@ Recipe Book and Shopping List Angular app hosted on Firebase. Login/Signup with 
 <img src="images_for_github/save-fetch.png" alt="save-fetch" width="200%" height="200%">
 
 <hr>
-
-<h1>Project</h1>
-<ul>
-    <li>This project was generated with <a href="https://github.com/angular/angular-cli">Angular CLI</a> version 14.0.3.</li>
-</ul>
 
 <h3>Development Server</h3>
 <ul>
