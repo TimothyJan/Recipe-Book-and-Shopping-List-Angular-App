@@ -18,8 +18,18 @@ Recipe Book and Shopping List Angular app hosted on Firebase. Login/Signup with 
 
 <hr>
 
+<h3>Manage Recipes</h3>
+<img src="images_for_github/recipes-manage.png" alt="recipes-manage" width="200%" height="200%">
+
+<hr>
+
 <h3>Shopping-List Page</h3>
 <img src="images_for_github/shopping-list.png" alt="Shopping-List Page" width="200%" height="200%">
+
+<hr>
+
+<h3>Save and Fetch: Saving and fetching from Firebase database.</h3>
+<img src="images_for_github/save-fetch.png" alt="save-fetch" width="200%" height="200%">
 
 <hr>
 
