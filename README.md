@@ -1,25 +1,25 @@
 # Recipe-Book-and-Shopping-List
 Recipe Book and Shopping List Angular app hosted on Firebase. Login/Signup with authentication using the <a href="https://firebase.google.com/docs/reference/rest/auth#section-create-email-password">Firebase Auth REST API</a>. Manage our recipes and view them in detail. Manage our shopping list and push ingredients from a recipe directly to the shopping list. Recipes and shopping list are saved and fetched using the <a href="https://firebase.google.com/docs/reference/rest/database">Firebase Database REST API</a>. Webapp securely hosted using <a href="https://firebase.google.com/docs/hosting">Firebase Hosting</a>. 
 
-<a href="https://ng-course-recipe-book-5433b.web.app/auth">Website hosted on Firebase</a>
-
-<h3>Welcome Page</h3>
-
-
-<hr>
+<a href="https://ng-course-recipe-book-5433b.web.app/auth">Website</a> hosted on Firebase.
 
 <h3>Login/Sign up Page</h3>
-
+<img src="images_for_github/login-signup.png" alt="Login/Sign up Page" width="50%" height="50%">
 
 <hr>
 
 <h3>Recipes Page</h3>
+<img src="images_for_github/recipes.png" alt="Recipes Page" width="50%" height="50%">
 
+<hr>
+
+<h3>Recipes Edit Page</h3>
+<img src="images_for_github/recipes-edit.png" alt="recipes-edit Page" width="50%" height="50%">
 
 <hr>
 
 <h3>Shopping-List Page</h3>
-
+<img src="images_for_github/shopping-list.png" alt="Shopping-List Page" width="50%" height="50%">
 
 <hr>
 
